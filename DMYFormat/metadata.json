@@ -1,0 +1,11 @@
+{
+    "id": "DayMonthYearDates",
+    "name": "Day Month Year Dates",
+    "description": "Makes dates order be DD-MM-YYYY instead of MM-DD-YYYY.",
+    "requiredPermissions": 0,
+    "author": "d9oGoLXA",
+    "contributors": [],
+    "version": "1.0.0",
+    "repoUrl": "change this",
+    "files": "script.js"
+}
