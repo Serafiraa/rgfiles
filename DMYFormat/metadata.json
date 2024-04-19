@@ -1,6 +1,6 @@
 {
-    "id": "DayMonthYearDates",
-    "name": "Day Month Year Dates",
+    "id": "DMYFormat",
+    "name": "DMY Format",
     "description": "Makes dates order be DD-MM-YYYY instead of MM-DD-YYYY.",
     "requiredPermissions": 0,
     "author": "d9oGoLXA",
